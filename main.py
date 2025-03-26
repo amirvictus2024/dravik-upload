@@ -7,7 +7,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, CallbackQueryH
 import uuid
 
 # Bot settings
-BOT_TOKEN = '7431582943:AAG5OdRRxBAU9HOm6bMYY4_HnVzSPEitaCQ'
+BOT_TOKEN = '7431582943:AAGpryYd3j0EA7_WiAgGY1pYUSDpbuGsjFw'
 PRIMARY_ADMIN = 6712954701
 CHANNEL_ID = "Dravik_official"
 BOT_USERNAME = "DravikUploader_bot"
